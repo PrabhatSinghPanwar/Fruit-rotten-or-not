@@ -37,6 +37,8 @@ This dataset is divided into two sub parts :
 
 The training dataset contains a total of 1212 images and the testing data set contains a total of 300 images.
 
+
+
 Each of these data sets are further divided into 6 more sub types :
 * Fresh Apples
 * Fresh Banana
