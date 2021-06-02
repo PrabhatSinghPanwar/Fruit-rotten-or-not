@@ -24,6 +24,24 @@ Note: Kindly do not push any changes to Main or Master Branch. Create a New Bran
 
 First the input image will be provided to the model using the web interface then the image will be classified into its fruit type and weather it is rotten or not
 
-This project is based on deep learning / neural networking which is a sub-branch of machine learning. Deep learning is capable of unsupervised learning which means it doesn’t need labled data for leaning.
+This project is based on deep learning / neural networking which is a sub-branch of machine learning.
 Deep learning is an artificial intelligence (AI) function that imitates the workings of the human brain in processing data and creating patterns for use in decision making.  
 This project will detect weather weather the fruit is rotten or not by processing the provided picture of fruit using deep learning.
+
+
+## Dataset
+
+This dataset is divided into two sub parts :
+* Training dataset
+* Testing dataset
+
+The training dataset contains a total of 1212 images and the testing data set contains a total of 300 images.
+
+Each of these data sets are further divided into 6 more sub types :
+* Fresh Apples
+* Fresh Banana
+* Fresh Oranges
+* Rotten Apples
+* Rotten Banana
+* Rotten Oranges
+
