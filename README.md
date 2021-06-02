@@ -18,11 +18,8 @@ Note: Kindly do not push any changes to Main or Master Branch. Create a New Bran
 
 
 # Table Content
-    * [x] About Project
-    * [x] Dataset
-    * [x] Language or Framework used
-    * Setup
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* About Project
+* Dataset
+* Language or Framework used
+* Setup
+
