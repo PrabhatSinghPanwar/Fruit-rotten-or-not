@@ -14,3 +14,11 @@ This project will detect weather weather the fruit is rotten or not by processin
 
 
 Note: Kindly do not push any changes to Main or Master Branch. Create a New Branch and push all the changes to that branch.
+
+
+
+#Table Content
+    About Project
+    Dataset
+    Language or Framework used
+    Setup
