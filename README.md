@@ -47,3 +47,12 @@ Each of these data sets are further divided into 6 more sub types :
 * Rotten Banana
 * Rotten Oranges
 
+
+## Language and Framework used
+
+* Python: language
+* NumPy: library for numerical calculations
+* Pandas: library for data manipulation and analysis
+* Tensorflow: library for large numerical computations without keeping deep learning in mind
+* Keras: neural network library
+* Flask: It is a micro web framework written in Pythonn used for web based applications 
