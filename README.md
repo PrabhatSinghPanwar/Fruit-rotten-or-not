@@ -56,3 +56,19 @@ Each of these data sets are further divided into 6 more sub types :
 * Tensorflow: library for large numerical computations without keeping deep learning in mind
 * Keras: neural network library
 * Flask: It is a micro web framework written in Pythonn used for web based applications 
+
+
+## Setup
+1. Clone the repository.
+2. If you are working on a local machine then :
+    * Create an active virtual environment for the project. 
+            
+    * Install all the necessary libraries mentioned above using the command :
+                ```$ pip install```
+    
+3. Code Orange detection.ipynb in your local machine and save the model.
+4. Make the necessary changes in app.py and other template files.
+5. Run the command :
+                ``` python "app.py" '''
+6. Now your webserver will be up and running.
+7. Paste the web address from the terminal to your web browser to use the app.
