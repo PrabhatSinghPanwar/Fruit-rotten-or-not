@@ -68,7 +68,7 @@ Each of these data sets are further divided into 6 more sub types :
     
 3. Code Orange detection.ipynb in your local machine and save the model.
 4. Make the necessary changes in app.py and other template files.
-5. Run the command :
-                ```$ python "app.py" '''
+5. Run the command : <br>
+                ``` python "app.py" ```
 6. Now your webserver will be up and running.
 7. Paste the web address from the terminal to your web browser to use the app.
